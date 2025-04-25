@@ -1,4 +1,8 @@
 {
     "Dents, Bend, Inclination": "A high-resolution, ultra-realistic underwater ROV inspection of a weathered yellow subsea equipment module with visible rust, corroded surfaces, hydraulic cables, and metal fixtures. Dark deep-sea background, lit by artificial subsea lights, detailed marine residue, aged industrial machinery, realistic textures, authentic ROV camera footage style, cinematic.",
-    "Coating, Damage, Stains": "Realistic underwater ROV view of a yellow subsea module with stained and corroded coating, patches of rust, marine growth, dark deep-sea background, artificial lighting, industrial inspection style"
-}
+  
+    "Coating, Damage, Stains": "Realistic underwater ROV view of a yellow subsea module with stained and corroded coating, patches of rust, marine growth, dark deep-sea background, artificial lighting, industrial inspection style",
+
+    "Corrosion" : "Underwater ROV view of a wellhead with peeling coating, rust patches, and exposed metal. Artificial lights, deep-sea background, damaged industrial surface. cinematic."
+  }
+  
