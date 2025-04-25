@@ -1,6 +1,6 @@
 import json
 
-def load_prompts(filepath='utils/prompt_options.json'):
+def load_prompts(filepath='uprompt_options.json'):
     try:
         with open(filepath, 'r') as f:
             return json.load(f)
