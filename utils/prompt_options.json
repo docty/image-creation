@@ -3,6 +3,12 @@
   
     "Coating, Damage, Stains": "Realistic underwater ROV view of a yellow subsea module with stained and corroded coating, patches of rust, marine growth, dark deep-sea background, artificial lighting, industrial inspection style",
 
-    "Corrosion" : "Underwater ROV view of a wellhead with peeling coating, rust patches, and exposed metal. Artificial lights, deep-sea background, damaged industrial surface. cinematic."
+    "Corrosion" : "Underwater ROV view of a wellhead with peeling coating, rust patches, and exposed metal. Artificial lights, deep-sea background, damaged industrial surface. cinematic.",
+
+    "Debris" : "Realistic underwater ROV view of a subsea module with marine debris, corroded surfaces, peeling paint. Dark deep-sea background, illuminated by artificial subsea lights, industrial inspection scene, detailed and weathered textures",
+
+    "Marine Growth" : "Realistic underwater view of a pipe covered with dense marine growth and corrosion, dark deep-sea background, illuminated by artificial subsea lights, inspection scene with aged textures",
+
+    "Crack" : "Realistic underwater view of a yellow-coated subsea structure with a visible surface crack, aged coating, signs of corrosion, deep-sea background illuminated by artificial subsea lights, inspection close-up"
   }
   
