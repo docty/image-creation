@@ -1,4 +1,7 @@
 torch
 gradio
-PIL
+safetensors
+accelerate
+transformers
+invisible_watermark
 diffusers
